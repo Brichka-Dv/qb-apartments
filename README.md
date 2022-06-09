@@ -1,6 +1,4 @@
 # qb-apartments 
-
-
 Brichka Apartments A script that was programmed with qb-radialmenu 
 
 # rights
@@ -9,3 +7,4 @@ ithub: https://github.com/Brichka
 
 # Video
 https://streamable.com/jn5k2e
+
