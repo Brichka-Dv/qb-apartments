@@ -3,7 +3,8 @@
 
 Brichka Apartments A script that was programmed with qb-radialmenu 
 
-rights
+# rights
 discord : Yassine Brichka#4079 github: https://github.com/Brichka
 
-#Video https://streamable.com/jn5
+# Video
+https://streamable.com/jn5
