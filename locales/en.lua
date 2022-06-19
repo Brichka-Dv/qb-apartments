@@ -1,27 +1,27 @@
 local Translations = {
     error = {
-        to_far_from_door = 'أنت بعيد عن جرس الباب',
-        nobody_home = 'لا يوجد احد في المنزل ..',
-        nobody_at_door = 'لا يوجد أحد عند الباب ...',
+        to_far_from_door = 'You are to far away from the Doorbell',
+        nobody_home = 'There is nobody home..',
+        nobody_at_door = 'There is nobody at the door...'
     },
     success = {
-        receive_apart = 'لقد حصلت على شقة',
-        changed_apart = 'تم نقلك الى هذه الشقة',
+        receive_apart = 'You got a apartment',
+        changed_apart = 'You moved apartments',
     },
     info = {
-        at_the_door = 'هناك شخص ما عند الباب!',
+        at_the_door = 'Someone is at the door!',
     },
     text = {
-        options = '[E] خيارات الشقة',
-        enter = 'دخول',
-        ring_doorbell = 'رن الجرس',
-        logout = 'تسجيل الخروج',
-        change_outfit = 'تتغير الملابس',
-        open_stash = 'فتح المخزن',
-        move_here = 'انتقل الى هنا',
-        open_door = 'فتح الباب',
-        leave = 'خروج',
-        close_menu = 'إغلاق القائمة',
+        options = '[E] Apartment Options',
+        enter = 'Enter Apartment',
+        ring_doorbell = 'Ring Doorbell',
+        logout = 'Logout Character',
+        change_outfit = 'Change Outfit',
+        open_stash = 'Open Stash',
+        move_here = 'Move Here',
+        open_door = 'Open Door',
+        leave = 'Leave Apartment',
+        close_menu = '⬅ Close Menu',
         tennants = 'Tennants',
     },
 }
