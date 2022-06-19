@@ -24,7 +24,7 @@ local IsInsideLogoutZone = false
 local function AddRadialImpoundOption()
     MenuItemId = exports['qb-radialmenu']:AddOption({
         id = 'open_house',
-        title = 'ﺔﻘﺸﻟﺍ',
+        title = 'Apartment',
         icon = 'house',
         type = 'client',
         event = 'apartments:client:showmenu',
@@ -35,7 +35,7 @@ end
 local function AddRadialImpoundOption1()
     MenuItemId1 = exports['qb-radialmenu']:AddOption({
         id = 'open_house_menu',
-        title = 'ﺔﻘﺸﻟﺍ',
+        title = 'Apartment',
         icon = 'house',
         type = 'client',
         event = 'apartments:client:showmenu1',
