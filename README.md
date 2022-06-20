@@ -24,7 +24,6 @@ https://streamable.com/jn5k2e
 - ensure qb-apartments
 
 # rights 
-- discord : 
-```Yassine Brichka#4079```
+-discord : https://discord.gg/p8HRkBZjh2
 - github: https://github.com/Brichka 
 
