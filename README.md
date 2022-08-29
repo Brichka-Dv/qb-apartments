@@ -24,6 +24,6 @@ https://streamable.com/jn5k2e
 - ensure qb-apartments
 
 # rights 
--discord : https://discord.gg/p8HRkBZjh2
-- github: https://github.com/Brichka 
+- discord : https://discord.gg/p8HRkBZjh2
+- github: https://github.com/Brichka-Dv 
 
